@@ -1,0 +1,7 @@
+export const GET_USERS = 'GET_USERS'
+export const SET_LOADING = 'SET_LOADING'
+export const SORT_LIST_ID = 'SORT_LIST_ID'
+export const SORT_LIST_FIRST_NAME = 'SORT_LIST_FIRST_NAME'
+export const SORT_LIST_LAST_NAME = 'SORT_LIST_LAST_NAME'
+export const SORT_LIST_EMAIL = 'SORT_LIST_EMAIL'
+export const SORT_LIST_PHONE = 'SORT_LIST_PHONE'
